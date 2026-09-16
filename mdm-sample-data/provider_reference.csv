@@ -1,0 +1,62 @@
+npi,organization_name,address_line,city,state,zip5,zip4,idn_id,idn_name,health_system_id,health_system_name
+1003811509,Oakmont Imaging Center,505 Elm Street Suite 400,Portland,OR,97205,1024,IDN-110,Cascade North Network,HS-100,Cascade Health System
+1003811517,Lakeview Orthopedics,505 Elm Street Suite 210,Portland,OR,97205,9935,IDN-110,Cascade North Network,HS-100,Cascade Health System
+1003811525,Northgate Regional Hospital,88 Cedar Lane,Portland,OR,97205,2730,IDN-110,Cascade North Network,HS-100,Cascade Health System
+1003811533,Brookside Surgery Center,300 Birchwood Court,Portland,OR,97205,8740,IDN-110,Cascade North Network,HS-100,Cascade Health System
+1003811541,Saint Luke Community Hospital,505 Pine Avenue,Portland,OR,97205,4986,IDN-110,Cascade North Network,HS-100,Cascade Health System
+1003811549,Lakeview Hospital,77 County Road 9,Portland,OR,97205,8847,IDN-110,Cascade North Network,HS-100,Cascade Health System
+1003811557,Mercy Outpatient Center,1240 Cedar Lane Suite 120,Portland,OR,97205,5683,IDN-110,Cascade North Network,HS-100,Cascade Health System
+1003811565,Willamette Outpatient Center,1240 Cedar Lane Suite 330,Portland,OR,97205,1518,IDN-120,Cascade South Network,HS-100,Cascade Health System
+1003811573,Harbor Point Medical Center,2450 South Adams Boulevard,Eugene,OR,97401,9751,IDN-120,Cascade South Network,HS-100,Cascade Health System
+1003811581,Willamette Outpatient Center,505 Oak Avenue,Eugene,OR,97401,9772,IDN-120,Cascade South Network,HS-100,Cascade Health System
+1003811589,Bayview Orthopedics,77 Cedar Lane,Eugene,OR,97401,1568,IDN-120,Cascade South Network,HS-100,Cascade Health System
+1003811597,Willamette Cancer Institute,505 County Road 9,Eugene,OR,97401,6274,IDN-120,Cascade South Network,HS-100,Cascade Health System
+1003811605,Granite Falls Cancer Institute,77 Harbor Boulevard,Eugene,OR,97401,2956,IDN-120,Cascade South Network,HS-100,Cascade Health System
+1003811613,Mercy Orthopedics,1802 South Adams Boulevard,Eugene,OR,97401,6797,IDN-120,Cascade South Network,HS-100,Cascade Health System
+1003811621,Saint Luke Medical Center,900 Grant Parkway Suite 2A,Chicago,IL,60611,8059,IDN-210,Lakeside Metro Group,HS-200,Lakeside Health
+1003811629,Brookside Outpatient Center,900 Grant Parkway Suite 2B,Chicago,IL,60611,3115,IDN-210,Lakeside Metro Group,HS-200,Lakeside Health
+1003811637,Silver Creek Surgery Center,2450 Lake Shore Drive,Chicago,IL,60611,3295,IDN-210,Lakeside Metro Group,HS-200,Lakeside Health
+1003811645,Granite Falls Family Clinic,1802 Birchwood Court,Chicago,IL,60611,7550,IDN-210,Lakeside Metro Group,HS-200,Lakeside Health
+1003811653,Northgate Community Hospital,1802 Lake Shore Drive,Chicago,IL,60611,1531,IDN-210,Lakeside Metro Group,HS-200,Lakeside Health
+1003811661,Granite Falls Orthopedics,505 Birchwood Court,Chicago,IL,60611,6815,IDN-210,Lakeside Metro Group,HS-200,Lakeside Health
+1003811669,Saint Mary Medical Center,300 Union Place,Chicago,IL,60611,7680,IDN-210,Lakeside Metro Group,HS-200,Lakeside Health
+1003811677,Saint Mary Medical Center,505 Elm Street,Orlando,FL,32801,8879,IDN-220,Lakeside Rural Group,HS-200,Lakeside Health
+1003811685,Granite Falls Community Hospital,1802 County Road 9,Peoria,IL,61602,8978,IDN-220,Lakeside Rural Group,HS-200,Lakeside Health
+1003811693,Fairhaven Cancer Institute,1802 Main Street,Peoria,IL,61602,3118,IDN-220,Lakeside Rural Group,HS-200,Lakeside Health
+1003811701,Willamette Regional Hospital,1240 Harbor Boulevard,Peoria,IL,61602,2982,IDN-220,Lakeside Rural Group,HS-200,Lakeside Health
+1003811709,Summit Regional Hospital,900 Summit Drive,Peoria,IL,61602,7896,IDN-220,Lakeside Rural Group,HS-200,Lakeside Health
+1003811717,Summit Regional Hospital,1802 Grant Parkway,Peoria,IL,61602,9521,IDN-220,Lakeside Rural Group,HS-200,Lakeside Health
+1003811725,Bayview Community Hospital,505 Harbor Boulevard,Peoria,IL,61602,2340,IDN-220,Lakeside Rural Group,HS-200,Lakeside Health
+1003811733,Saint Mary Cancer Institute,300 Union Place,Tampa,FL,33602,9532,IDN-310,Gulf Coast Alliance,HS-300,Gulf Coast Care
+1003811741,Lakeview Outpatient Center,88 Pine Avenue,Tampa,FL,33602,6212,IDN-310,Gulf Coast Alliance,HS-300,Gulf Coast Care
+1003811749,Cascade Northgate Hospital,900 County Road 9,Tampa,FL,33602,5177,IDN-310,Gulf Coast Alliance,HS-300,Gulf Coast Care
+1003811757,Riverbend Outpatient Center,505 Oak Avenue,Tampa,FL,33602,9660,IDN-310,Gulf Coast Alliance,HS-300,Gulf Coast Care
+1003811765,Silver Creek Cancer Institute,300 Cedar Lane,Tampa,FL,33602,4075,IDN-310,Gulf Coast Alliance,HS-300,Gulf Coast Care
+1003811773,Willamette Medical Center,12 River Road,Tampa,FL,33602,4764,IDN-310,Gulf Coast Alliance,HS-300,Gulf Coast Care
+1003811781,Northgate Surgery Center,77 Elm Street,Tampa,FL,33602,8977,IDN-310,Gulf Coast Alliance,HS-300,Gulf Coast Care
+1003811789,Cedar Ridge Cancer Institute,88 County Road 9,Orlando,FL,32801,9237,IDN-320,Gulf Coast Physicians,HS-300,Gulf Coast Care
+1003811797,Peña Blanca Family Clinic,900 Birchwood Court,Orlando,FL,32801,6601,IDN-320,Gulf Coast Physicians,HS-300,Gulf Coast Care
+1003811805,Meadowbrook Community Hospital,1802 Grant Parkway,Orlando,FL,32801,6038,IDN-320,Gulf Coast Physicians,HS-300,Gulf Coast Care
+1003811813,Meadowbrook Cancer and Research Institute,300 River Road,Orlando,FL,32801,4256,IDN-320,Gulf Coast Physicians,HS-300,Gulf Coast Care
+1003811821,Northgate Orthopedics,505 Summit Drive,Orlando,FL,32801,8908,IDN-320,Gulf Coast Physicians,HS-300,Gulf Coast Care
+1003811829,Saint Mary Orthopedics,12 River Road,Orlando,FL,32801,6092,,,,
+1003811837,Cedar Ridge Hospital,88 Elm Street,Orlando,FL,32801,9351,,,,
+1003811845,Saint Joseph Medical Center,2450 North Washington Street,Denver,CO,80202,1466,IDN-410,Summit Mountain Network,HS-400,Summit Regional Health
+1003811853,Prairie Orthopedics,300 Elm Street,Denver,CO,80202,8520,IDN-410,Summit Mountain Network,HS-400,Summit Regional Health
+1003811877,Riverbend Cancer Institute,505 Main Street,Denver,CO,80202,5920,IDN-410,Summit Mountain Network,HS-400,Summit Regional Health
+1003811885,Brookside Cancer Institute,300 County Road 9,Denver,CO,80202,5527,IDN-410,Summit Mountain Network,HS-400,Summit Regional Health
+1003811893,Cedar Ridge Medical Center,505 Cedar Lane,Denver,CO,80202,6056,IDN-410,Summit Mountain Network,HS-400,Summit Regional Health
+1003811901,Willamette Cancer Institute,2450 Elm Street,Minneapolis,MN,55401,4377,IDN-510,Heartland North,HS-500,Heartland Partners
+1003811909,Cedar Ridge Outpatient Center,12 Union Place,Minneapolis,MN,55401,1284,IDN-510,Heartland North,HS-500,Heartland Partners
+1003811917,Fairhaven Hospital,300 Lake Shore Drive,Minneapolis,MN,55401,2394,IDN-510,Heartland North,HS-500,Heartland Partners
+1003811925,Meadowbrook Regional Hospital,45 River Road,Minneapolis,MN,55401,8656,IDN-510,Heartland North,HS-500,Heartland Partners
+1003811933,Lakeview Imaging Center,12 Lake Shore Drive,Minneapolis,MN,55401,7868,IDN-510,Heartland North,HS-500,Heartland Partners
+1003811941,Saint Luke Community Hospital,300 Cedar Lane,Minneapolis,MN,55401,7072,IDN-510,Heartland North,HS-500,Heartland Partners
+1003811949,Granite Falls Hospital,900 Elm Street,Minneapolis,MN,55401,2328,IDN-510,Heartland North,HS-500,Heartland Partners
+1003811957,Silver Creek Family Clinic,1240 River Road,Des Moines,IA,50309,3550,IDN-520,Heartland South,HS-500,Heartland Partners
+1003811965,Cedar Ridge Imaging Center,1802 Cedar Lane Suite 100,Des Moines,IA,50309,1163,IDN-520,Heartland South,HS-500,Heartland Partners
+1003811973,Saint Joseph Imaging Center,1802 Cedar Lane Suite 200,Des Moines,IA,50309,3383,IDN-520,Heartland South,HS-500,Heartland Partners
+1003811981,Northgate Cancer Institute,77 River Road,Des Moines,IA,50309,1946,IDN-520,Heartland South,HS-500,Heartland Partners
+1003811989,Silver Creek Hospital,77 South Adams Boulevard,Des Moines,IA,50309,1311,IDN-520,Heartland South,HS-500,Heartland Partners
+1003811997,Bayview Hospital,1240 County Road 9,Des Moines,IA,50309,2243,IDN-520,Heartland South,HS-500,Heartland Partners
+1003812005,Northgate Surgery Center,505 South Adams Boulevard,Des Moines,IA,50309,3810,IDN-520,Heartland South,HS-500,Heartland Partners

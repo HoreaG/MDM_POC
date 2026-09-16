@@ -1,0 +1,65 @@
+RecordID,SaleDate,CustomerName,Street,CityStateZip,Item,Qty,Amount
+B-77001,03/25/2026,Saint Joseph Imaging Center Ste 200,1802 Cedar,"Des Moines, IA 50309",DEV-3050,12,1067.58
+B-77002,05/04/2026,  St  Joseph Imaging Center  Ste 200,18O2 Cedar,"Des Moins, IA 50309",DEV-2200,4,870.6
+B-77003,05/01/2026,"Mercy Orthopedics, P.C.",1802 South,"Eugene, OR 97401",DEV-5500,24,6583.13
+B-77004,07/20/2026,Mercy Orthopedics,18O2 South Adams Boulevard,"Eugee, OR 97401-6797",DEV-1180,19,3667.96
+B-77005,08/10/2026,Saint Luke Medical Center,90O Grant Parkway Ste 2A,"Chiago, IL 60611-8059",DEV-2200,16,5476.01
+B-77006,01/04/2026,Saint Luke Medical Center,9O0 Grant Pkwy,"Chicago, IL 60611",DEV-2200,23,6307.83
+B-77007,09/22/2026,Northgate Cancer Institute,77 River,"De Moines, IA 50309",DEV-1180,7,1707.97
+B-77008,09/11/2026,Northgate Cancer Institute D/B/A Northgate Health,77 River Road,"Des Moines, IA 50309",DEV-1180,13,3160.7
+B-77009,12/01/2026,Saint Joseph Medical Center Inc,2450 North Washington Street,"Denver, CO 80202",DEV-3050,4,1466.79
+B-77010,06/26/2026,Saint Josephs Medical Center,245O North Washington St,"Denver, CO 80202",DEV-1180,10,1220.55
+B-77011,07/21/2026,Prairie Orthopedics,,"Denver, CO 80202",DEV-1180,19,2420.83
+B-77012,08/22/2026,Granite Falls Cancer Inst,77 Harbor Boulevard,"Eugene, OR",DEV-1180,16,3022.95
+B-77013,11/16/2026,Meadowbrook Cancer And Research Institute D/B/A Meadowbrook Health,3O0 River Road,"Orlando, FL 32801",DEV-3050,1,307.72
+B-77014,08/24/2026,Meadowbrook Cancer & Research Inst,300 River Road,"Orlando, FL 32801-4256",DEV-1180,20,6131.14
+B-77015,08/10/2026,Northgate Community Hospital,1802 Lake Shore Drive,"Chicago, IL 60611-1531",DEV-1180,6,1337.96
+B-77016,01/15/2026,Northgate Orthopedics,505 Summit Drive,"Orlando, FL 32801-8908",DEV-4410,12,2592.59
+B-77017,10/26/2026,Northgate Orthopedics,5O5 Summit Drive,"Orlando, FL 32801",DEV-1180,8,860.43
+B-77018,12/12/2026,"Saint Luke Community Hosp, P.C.",300 Cedar Lane,"Minneapolis, MN 55401-7072",DEV-1180,23,2495.62
+B-77019,11/14/2026,Northgate Surgery Center,505 South,"Des Moines, IA 53009",DEV-3050,1,326.33
+B-77020,04/10/2026,Lakeview Hosp,12 Pine,"Denver, CO 80202-1723",DEV-1180,9,1506.34
+B-77021,10/16/2026,Mercy Outpatient Center,1240 Cedar Lane,"Portland, OR 97205",DEV-2200,23,7183.06
+B-77022,12/12/2026,  Mercy  Outpatient Center ,1240 Cedar Lane Ste 120,"Portland, OR 97205",DEV-4410,4,701.18
+B-77023,09/23/2026,Summit Regional Hospital,18O2 Grant Parkway,"Peoria, IL 61602",DEV-4410,24,4844.21
+B-77024,05/24/2026,Cedar Ridge Cancer Institute,88 County Road 9,"Orlando, FL 32801-9237",DEV-3050,17,2325.59
+B-77025,09/05/2026,Fairhaven Cancer Inst D/B/A Fairhaven Health,1802 Main,"Peoria, IL 61602",DEV-5500,4,1140.22
+B-77026,06/19/2026,Fairhaven Cancer Inst,1802 Main St,"Peoria, IL 61602",DEV-4410,25,5252.58
+B-77027,09/27/2026,Lakeview Community Hospital,77 Birchwood Court,"Denver, CO 80202",DEV-2200,11,2264.66
+B-77028,05/15/2026,Lakeview Community Hospital,77 Birchwood Court,"Denver, CO 80202",DEV-5500,22,6023.83
+B-77029,08/07/2026,Lakeview Hosp,77 County,"Portland, OR 97205-8847",DEV-3050,5,1377.03
+B-77030,08/21/2026,"Lakeview Hospital, P.C.",77 County Road 9,"Portland, OR 97205-8847",DEV-5500,17,6079.24
+B-77031,05/17/2026,Fairhaven Hospital,,"Minneapolis, MN 55401",DEV-4410,20,2930.49
+B-77032,10/04/2026,Northgate Regional Hospital,88 Cedar Lane,"Portland, OR 97205",DEV-1180,19,5322.93
+B-77033,03/11/2026,Willamette Medical Center D/B/A Willamette Health,12 River Road,"Tapa, FL 36302",DEV-3050,4,791.06
+B-77034,02/04/2026,"Harbor Point Medical Center, P.C.",2450 South Adams Blvd,"Eugene, OR 97401",DEV-4410,12,4325.43
+B-77035,07/15/2026,Harbor Point Medical Center,2450 South Adams Boulevard,"Eugene, OR 97401",DEV-5500,6,1251.48
+B-77036,05/08/2026,Lakeview Orthopedics,505 Elm Street,"Portland, OR 97205",DEV-2200,22,3756.64
+B-77037,04/14/2026,Lakeview Orthopedics,505 Elm Street Ste 210,"Portland, OR 97205",DEV-4410,21,3300.29
+B-77038,11/28/2026,Saint Luke Community Hosp,505 Pine Avenue,"Portland, OR 97205",DEV-4410,1,133.65
+B-77039,08/25/2026,Saint Lukes Community Hosp,505 Pine Avenue,"Potland, OR 97205-4986",DEV-4410,16,2223.45
+B-77040,06/06/2026,Granite Falls Hospital,900 Elm,"Minneapolis, MN 55401",DEV-3050,25,6237.54
+B-77041,05/13/2026,Granite Falls Hospital,900 Elm,"Minneapolis, MN 55401",DEV-4410,4,730.04
+B-77042,11/22/2026,Granite Falls Community Hospital,1802 County Road 9,"Peoria, IL 61602",DEV-4410,21,7485.84
+B-77043,10/14/2026,Granite Falls Ortho,5O5 Birchwood,"Chicago, IL 60611",DEV-4410,7,1853.59
+B-77044,02/27/2026,Brookside Cancer Institute Llc,300 County Rd 9,"Denver, CO 80202-5527",DEV-1180,11,2295.56
+B-77045,05/02/2026,Saint Mary Orthopedics,I2 River Road,"Orlndo, FL 32801",DEV-3050,2,657.59
+B-77046,08/19/2026,Saint Marys Orthopedics,12 River Road,"Orlando, FL 32801-6092",DEV-1180,5,1101.69
+B-77047,01/17/2026,Bayview Orthopedics,77 Cedar Lane,"Eugene, OR 97401",DEV-1180,1,334.9
+B-77048,12/09/2026,Bayview Orthopedics,77 Cedar Lane,"Eugene, OR",DEV-2200,12,3407.1
+B-77049,05/25/2026,  Cedar  Ridge Outpatient Center ,12 Union Pl,"Minneapolis, MN 55401",DEV-5500,19,1571.92
+B-77050,11/16/2026,Willamette Outpatient Ctr,505 Oak,"Eugene, OR 97401",DEV-4410,7,1421.44
+B-77051,08/10/2026,  Willamette  Outpatient Ctr ,505 Oak Avenue,"Eugene, OR 97401",DEV-1180,18,5320.39
+B-77052,02/27/2026,Willamette Outpatient Center,I240 Cedar Lane Ste 330,"Portland, OR 97205",DEV-2200,6,2099.41
+B-77053,11/01/2026,Cascade Northgate Hospital,900 County,"Tampa, FL 33602-5177",DEV-5500,21,7425.39
+B-77054,11/24/2026,Cascade Northgate Hospital,900 County Road 9,"Tampa, FL 33602-5177",DEV-5500,2,327.87
+B-77055,01/25/2026,"Bayview Community Hospital, Inc.",5O5 Harbor Boulevard,"Peoria, IL 61602-2340",DEV-5500,23,8961.45
+B-77056,08/06/2026,Cedar Ridge Imaging Center Inc Ste 100,1802 Cedar Lane,"Des Moines, IA 50309",DEV-4410,8,3101.61
+B-77057,05/25/2026,Saint Mary Cancer Institute,300 Union Place,"Tampa, FL 33602-9532",DEV-1180,23,1996.87
+B-77058,06/19/2026,St Mary Cancer Institute,300 Union Place,"Tampa, FL 33602-9532",DEV-2200,12,3154.91
+B-77059,05/28/2026,  Oakmont  Imaging Center ,505 Elm Street Ste 400,"Portland, OR 97205",DEV-1180,11,1204.49
+B-77060,10/11/2026,Oakmont Imaging Ctr Ste 400,505 Elm Street,"Portland, OR 97205",DEV-2200,6,1489.35
+B-77061,08/01/2026,  Peña  Blanca Family Clinic ,900 Birchwood Court,"Orlando, FL",DEV-3050,23,3584.47
+B-77062,06/16/2026,Peña Blanca Family Clnc,90O Birchwood Court,"Orlando, FL 32801",DEV-2200,11,3031.74
+B-77063,05/05/2026,"Willamette Regional Hospital, Inc.",1240 Harbor Boulevard,"Peria, IL 61602",DEV-5500,19,3709.63
+B-77064,05/02/2026,"Willamette Regional Hospital, Inc.",1240 Harbor,"Peoria, IL 61602",DEV-5500,13,3967.72
