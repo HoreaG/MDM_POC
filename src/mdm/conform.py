@@ -1,5 +1,6 @@
 import pandas as pd
 from mdm.standardize import standardize_name, standardize_street, extract_suite, standardize_zip, parse_city_state_zip
+from pathlib import Path  
 
 
 header_names = ["record_uid", "source_system", "source_record_id", "role", "name_raw", "name_std", "street_std", "suite_std", "zip5", "legacy_customer_id", "npi"]
@@ -102,3 +103,22 @@ def one_table(df: pd.DataFrame, name: str, mapping: dict):
     master_df = master_df.fillna("")                                          
 
     return master_df
+
+
+files = [
+    ("erp",               "erp_customer_master"),
+    ("sf",                "salesforce_accounts"),
+    ("reference",         "provider_reference"),
+    ("distributor_alpha", "distributor_alpha_tracing_2026-03"),
+    ("distributor_beta",  "distributor_beta_tracing_2026-03"),
+]
+
+
+# NEW — load every file, conform it, and stack them into one table
+def build_records(folder):
+    tables = []
+    for name, file in files:
+        df = pd.read_csv(Path(folder) / f"{file}.csv", dtype=str)
+        tables.append(one_table(df, name, mapping))
+
+    return pd.concat(tables, ignore_index=True)
